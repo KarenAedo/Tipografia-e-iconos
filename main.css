@@ -1,0 +1,33 @@
+/*  color íconos #4FCFBB  */
+/*  color tipografía #6F6A6A  */
+
+.caja1, .caja2, .caja3, .caja4, .caja5{
+	float: left;
+	width: 200px;
+	height: 400px;
+	border: 1px dotted #6F6A6A;
+	margin: 5px;
+	text-align: center;
+	
+}
+
+.fa-bed, .fa-bath, .fa-coffee, .fa-bus, .fa-laptop{
+	font-size: 70px;
+	color: #4FCFBB;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+h2{
+	font-family: 'Anton', sans-serif;
+	font-size: 18px;
+	color: #6F6A6A;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	text-align: justify;
+	padding: 20px;
+	color: #6F6A6A;
+}
